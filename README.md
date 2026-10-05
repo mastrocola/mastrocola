@@ -16,4 +16,4 @@ My work lives at **[mastrocola.dev](https://mastrocola.dev)** and is built in th
 Working set: Node.js and TypeScript, Python, SQL Server and PostgreSQL, RabbitMQ and Kafka, Airflow, Terraform, Azure and AWS, and LLM agents over the Model Context Protocol.
 
 Open to architecture and tech lead opportunities.
-[mastrocola@gmail.com](mailto:mastrocola@gmail.com) — [LinkedIn](https://www.linkedin.com/in/marcio-mastrocola)
+[marcio@mastrocola.dev](mailto:marcio@mastrocola.dev) — [LinkedIn](https://www.linkedin.com/in/marcio-mastrocola)
