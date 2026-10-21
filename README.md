@@ -8,6 +8,7 @@ Twenty years of software that can't stop — embedded vehicle tracking, ERPs thr
 
 A production platform on Azure with every decision recorded. Ask [mastrocola.dev](https://mastrocola.dev) how it is built: an AI agent answers from the architecture records and cites the ones it used.
 
+| | |
 |---|---|
 | [service-agent](https://github.com/mastrocola-dev/service-agent) | LLM agent host — own control loop, tool allowlists over MCP, structured output, token and time budgets, traces |
 | [service-api](https://github.com/mastrocola-dev/service-api) | Queue-based job API in front of the agent — per-visitor quotas, daily spend cap, bot challenge |
